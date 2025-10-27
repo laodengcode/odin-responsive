@@ -240,6 +240,10 @@ footer .social-icons a {
     color: white;
 }
 
+footer .social-icons a:first-child {
+    margin-left: 0;
+}
+
 footer .social-icons a:hover {
     opacity: 0.8;
 }
