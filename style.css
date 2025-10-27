@@ -176,10 +176,18 @@ main {
     font-weight: 600;
     font-size: 18px;
     margin-top: 0;
+    margin-bottom: 0;
+}
+
+.card-title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
 }
 
 .card-icons {
-    margin-top: 15px;
+    margin-top: 0;
 }
 
 .card-icons a {
