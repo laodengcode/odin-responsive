@@ -131,7 +131,7 @@ main {
 .main-container h2 {
     font-family: 'Playfair Display', serif;
     font-size: 36px;
-    text-align: center;
+    text-align: left;
     margin-bottom: 40px;
 }
 
@@ -165,6 +165,7 @@ main {
 .green { background-color: #6A9C78; }
 .orange { background-color: #E6A14D; }
 .blue { background-color: #4AA3D4; }
+.pink {background-color: hotpink;}
 
 .card-content {
     padding: 20px;
